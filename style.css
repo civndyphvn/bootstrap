@@ -1,0 +1,61 @@
+.Kailua-title
+{
+  text-align: center;
+  padding:25px;
+}
+.Kailua-description p{
+  text-align: center;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.container
+{
+  margin-top: 20px;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+
+.container-card
+{
+  margin-top: 10px;
+  padding-left: 130px;
+
+}
+
+.row{
+  display: flex;
+  justify-content:space-between;
+  flex-wrap: wrap;
+}
+
+footer
+{
+  padding:25px;
+  text-align: center;
+  width: auto;
+}
+
+.container-contact
+{
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 20px;
+}
+
+
+h1
+{
+  text-align: center;
+}
+
+.container-button
+{
+  text-align: center;
+  padding:25px;
+}
+
+.container-map
+{
+  text-align: center;
+  padding: 25px;
+}
